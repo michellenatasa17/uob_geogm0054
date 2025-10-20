@@ -1,3 +1,4 @@
+# for the sake of learning
 # uob_geogm0054
 
 Repository for UoB GEOGM0054 practical exercises
