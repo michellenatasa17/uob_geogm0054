@@ -1,4 +1,4 @@
-# for the sake of learning
+# for the sake of learning somewthing
 # uob_geogm0054
 
 Repository for UoB GEOGM0054 practical exercises
